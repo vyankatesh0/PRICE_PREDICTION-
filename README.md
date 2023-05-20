@@ -39,12 +39,12 @@ Moving average analysis.
 Dependencies
 The following dependencies are required to run the application:
 
-numpy
-pandas
-matplotlib
-yfinance
-keras
-streamlit
+1. numpy
+2. pandas
+3. matplotlib
+4. yfinance
+5. keras
+6. streamlit
 
 On the home page, you will see a form where you can enter the date for which you want to predict the stock price.
 
